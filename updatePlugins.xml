@@ -2,8 +2,8 @@
 <plugins>
   <plugin
       id="com.kube.deploy.glx"
-      url="https://github.com/BlenderRUS/glx-kube-deploy-dist/releases/download/v1.2.0/glx-kube-deploy-1.2.0.zip"
-      version="1.2.0">
+      url="https://github.com/BlenderRUS/glx-kube-deploy-dist/releases/download/v1.3.0/glx-kube-deploy-1.3.0.zip"
+      version="1.3.0">
     <idea-version since-build="251"/>
     <name>Galaksion Kube Deploy Manager</name>
     <vendor email="sub7blender@gmail.com" url="https://github.com/blenderrus">Grigoriy Skidan</vendor>
