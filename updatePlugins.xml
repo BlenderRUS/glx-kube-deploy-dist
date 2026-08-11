@@ -9,4 +9,13 @@
     <vendor email="sub7blender@gmail.com" url="https://github.com/blenderrus">Grigoriy Skidan</vendor>
     <description><![CDATA[Setup and deploy projects in GLX Kubernetes GitLab CI/CD]]></description>
   </plugin>
+  <plugin
+      id="com.gtag.creator.glx"
+      url="https://github.com/BlenderRUS/glx-kube-deploy-dist/releases/download/gtag-v1.0.0/g_tag_creator-1.0.0.zip"
+      version="1.0.0">
+    <idea-version since-build="262"/>
+    <name>G Tag Creator</name>
+    <vendor email="sub7blender@gmail.com" url="https://github.com/blenderrus">Grigoriy Skidan</vendor>
+    <description><![CDATA[Create a release git tag for a chosen branch without touching your working copy. Bump major, minor or patch of the latest tag in a dialog, review the changelog-based tag message, and push to origin only when you ask for it.]]></description>
+  </plugin>
 </plugins>
