@@ -11,8 +11,8 @@
   </plugin>
   <plugin
       id="com.gtag.creator.glx"
-      url="https://github.com/BlenderRUS/glx-kube-deploy-dist/releases/download/gtag-v1.0.0/g_tag_creator-1.0.0.zip"
-      version="1.0.0">
+      url="https://github.com/BlenderRUS/glx-kube-deploy-dist/releases/download/gtag-v1.0.1/g_tag_creator-1.0.1.zip"
+      version="1.0.1">
     <idea-version since-build="262"/>
     <name>G Tag Creator</name>
     <vendor email="sub7blender@gmail.com" url="https://github.com/blenderrus">Grigoriy Skidan</vendor>
